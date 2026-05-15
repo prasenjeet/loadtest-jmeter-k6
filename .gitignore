@@ -1,0 +1,3 @@
+java-service/target/
+*.log
+jmeter/results/jmeter-html-report/
